@@ -3,7 +3,7 @@
 Serial pc( USBTX, USBRX );
 PwmOut PWM1(D0);
 
-float data0;
+float data;
 
 
 int main(){
